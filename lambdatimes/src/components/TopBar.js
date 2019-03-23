@@ -52,7 +52,7 @@ const ContainerCenter = styled.div`
   font-size: 9px;
 
   span {
-    pointer: cursor;
+    cursor: pointer;
     margin-right: 5%;
   }
   &:last-child {
